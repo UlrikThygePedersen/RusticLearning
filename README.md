@@ -2,7 +2,7 @@
 
 # RusticLearning
 
-This project is a comprehensive machine learning pipeline written in Rust, powered by [Linfa](https://github.com/rust-ml/linfa) <img src="assets/mascot.svg" alt="Linfa" width="40"/>. 
+This project is a comprehensive machine learning pipeline written in Rust, powered by [Linfa](https://github.com/rust-ml/linfa) <img src="assets/mascot.svg" alt="Linfa" width="30"/> 
 
 It demonstrates how to build a machine learning system with multiple models, data preprocessing, and evaluation capabilities, all orchestrated in a modular way. The project uses the `linfa` ecosystem to implement common machine learning algorithms such as **Logistic Regression**, **K-Nearest Neighbors**, and **Random Forest**.
 

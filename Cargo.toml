@@ -1,0 +1,8 @@
+[dependencies]
+linfa = "0.5.0"
+linfa-logistic = "0.5.0"
+linfa-knn = "0.5.0"
+linfa-random-forest = "0.5.0"
+linfa-datasets = "0.5.0"
+linfa-preprocessing = "0.5.0"
+ndarray = "0.15.4"

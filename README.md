@@ -1,9 +1,8 @@
-# RusticLearning
+# RusticLearning <img src="mascot.svg" alt="Linfa"/>
 
 
 <img src="assets/intersection.png" alt="Intersection Image"/>
 
-<img src="mascot.svg" alt="Linfa"/>
 
 This project is a comprehensive machine learning pipeline written in Rust. It demonstrates how to build a machine learning system with multiple models, data preprocessing, and evaluation capabilities, all orchestrated in a modular way. The project uses the `linfa` ecosystem to implement common machine learning algorithms such as **Logistic Regression**, **K-Nearest Neighbors**, and **Random Forest**.
 

@@ -1,4 +1,4 @@
-# RusticLearning <img src="mascot.svg" alt="Linfa" width="20"/>
+# RusticLearning <img src="mascot.svg" alt="Linfa" width="40"/>
 
 
 <img src="assets/intersection.png" alt="Intersection Image"/>

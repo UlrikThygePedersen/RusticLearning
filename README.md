@@ -1,6 +1,6 @@
 <img src="assets/rust.png" alt="Intersection Image"/>
 
-# RusticLearning <img src="assets/mascot.svg" alt="Linfa" width="30"/> 
+# RusticLearning <img src="assets/mascot.svg" alt="Linfa" width="40"/> 
 
 This project is a comprehensive machine learning pipeline written in Rust, powered by [Linfa](https://github.com/rust-ml/linfa).
 
